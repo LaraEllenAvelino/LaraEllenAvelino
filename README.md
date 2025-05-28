@@ -1,16 +1,9 @@
 
+<h2 align="left">Sobre mim</h2>
 
 ###
 
 <p align="left">Meu nome é Lara Avelino e sou estudante de Ciência da Computação, do Brasil.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<h2 align="left">Sobre mim</h2>
 
 ###
 
