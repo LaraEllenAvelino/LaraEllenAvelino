@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde que comecei a programar!<br>📚 Atualmente estou aprendendo Python, MySQL e aprimorando minhas habilidades em front-end.<br>🎯 Objetivos: Continuar evoluindo e contribuir para projetos open-source.<br>🎲 Curiosidade: Adoro resolver problemas—especialmente aqueles que eu mesma crio! 😆</p>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde que comecei a programar!<br>📚 Atualmente estou aprendendo **CSS, Java, HTML e Python**.<br>🎯 Objetivos: Continuar evoluindo e contribuir para projetos open-source.<br>🎲 Curiosidade: Adoro resolver problemas—especialmente aqueles que eu mesma crio! 😆</p>
 
 ###
 
@@ -24,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
 </div>
@@ -49,6 +55,16 @@
 ###
 
 <div align="left">
+  <a href="www.linkedin.com/in/lara-avelino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5535991482635" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:laraellenavelino06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
