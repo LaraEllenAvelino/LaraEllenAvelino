@@ -46,9 +46,8 @@
 <h2 align="left">📬 Contato</h2>
 
 ###
-
 <div align="left">
-  <a href="[www.linkedin.com/in/lara-avelino](https://www.linkedin.com/in/lara-avelino/)" target="_blank">
+  <a href="https://www.linkedin.com/in/lara-avelino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/5535991482635" target="_blank">
